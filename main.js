@@ -1,7 +1,7 @@
 //getting the api key and url
 const api = {
   key: "f2555d1e94599dfc0b75bb332b9be43e",
-  baseurl: "http://api.openweathermap.org/data/2.5/"
+  baseurl: "https://api.openweathermap.org/data/2.5/"
 }
 
 //get reference to the search box
